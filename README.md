@@ -47,4 +47,4 @@ This task is applicable in a vast array of scenarios:
 
 In essence, designing the UI for an e-learning platform is crucial for its success, as it directly impacts user engagement, learning effectiveness, and overall user satisfaction, making it applicable wherever structured online education or training is delivered.
 
-*OUTPUT* : 
+*OUTPUT* : ![Image](https://github.com/user-attachments/assets/808648e7-d2c5-4968-b6dd-cd07575c8035)
